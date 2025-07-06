@@ -5,7 +5,7 @@ config ZMK_KEYBOARD_NAME
 # デフォルト向きレイヤーの設定
 config NAPE_DEFAULT_LAYER
     int "電源オン時のデフォルトの向きレイヤー"
-    default 5
+    default 2
     range 0 7
     help
       電源オン時のデフォルトの使用向きを選択。
