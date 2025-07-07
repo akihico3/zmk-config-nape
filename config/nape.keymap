@@ -124,7 +124,7 @@
 
         orientation90_layer {
             bindings = <
-&kt ESC  &lt_mkp 10 MB1  &mkp MB2  &mo 8  &mo 9  &mo 11
+&lt_mkp 10 MB2  &mkp MB1  &mkp MB2  &mo 8  &mo 9  &mo 11
             >;
         };
 
